@@ -4,7 +4,7 @@
 
 This repository contains a collection of Object-Oriented PHP examples and projects aimed at helping developers understand and implement Object-Oriented Programming (OOP) principles in PHP. Whether you're a beginner looking to grasp the fundamentals or an experienced developer seeking advanced examples, this repository has something for everyone.
 
-## Table of Contents
+## Table of Contents(Can be changes during course work)
 
 - [Getting Started](#getting-started)
 - [Features](#features)
