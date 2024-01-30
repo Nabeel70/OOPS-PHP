@@ -16,6 +16,7 @@ $product = "Jacket";
 
 function productInfo($brand, $product){
     echo "The brand is $brand and the product is $product";
+    // echo "The brand is" . $brand ."and the product is" .$product;
 }
 
 return productInfo($brand, $product);
