@@ -13,13 +13,14 @@
 
 $brand = "Gucci";
 $product = "Jacket";
+$price = 1000;
 
-function productInfo($brand, $product){
-    echo "The brand is $brand and the product is $product";
+function productInfo($brand, $product, $price){
+    echo "The brand is $brand and the product is $product and price is $price";
     // echo "The brand is" . $brand ."and the product is" .$product;
 }
 
-return productInfo($brand, $product);
+return productInfo($brand, $product, $price);
 
 ?>
 </body>

@@ -5,4 +5,5 @@
 class cloth{
    public $brand = "Gucci";
     private $product = "Jacket";
+    protected $price = 1000;
 }
