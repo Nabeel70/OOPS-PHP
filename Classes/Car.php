@@ -3,7 +3,8 @@
 //Visibility and modifiers in classes 
 
 class cloth{
-   public $brand = "Gucci";
-    private $product = "Jacket";
-    protected $price = 1000;
+    //Properties / Fields
+   private $brand;
+    private $product;
+    private $price;
 }
