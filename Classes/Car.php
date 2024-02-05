@@ -7,4 +7,7 @@ class cloth{
    private $brand;
     private $product;
     private $price;
+
+    //Constructor
+    
 }
