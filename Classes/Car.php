@@ -8,6 +8,9 @@ class cloth{
     private $product;
     private $price;
 
-    //Constructor
-    
+    //Constructor(A constructor allows you to initialize an object's properties upon creation of the object.)
+    public function __construct()
+    {
+         
+    }
 }
